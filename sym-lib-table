@@ -1,6 +1,6 @@
 (sym_lib_table
   (lib (name DF40C-60DP-0.4V_51_)(type Legacy)(uri ${KIPRJMOD}/lib_sch/DF40C-60DP-0.4V_51_.lib)(options "")(descr ""))
   (lib (name DF40HC_4.0_-60DS-0.4V_51_)(type Legacy)(uri ${KIPRJMOD}/lib_sch/DF40HC_4.0_-60DS-0.4V_51_.lib)(options "")(descr ""))
-  (lib (name TE_3-1734742-8)(type Legacy)(uri ${KIPRJMOD}/lib_sch/TE_3-1734742-8.lib)(options "")(descr ""))
-  (lib (name TE_3-1734592-8)(type Legacy)(uri ${KIPRJMOD}/lib_sch/TE_3-1734592-8.lib)(options "")(descr ""))
+  (lib (name TE_3-1734592-6)(type Legacy)(uri ${KIPRJMOD}/lib_sch/TE_3-1734592-6.lib)(options "")(descr ""))
+  (lib (name TE_3-1734742-6)(type Legacy)(uri ${KIPRJMOD}/lib_sch/TE_3-1734742-6.lib)(options "")(descr ""))
 )
